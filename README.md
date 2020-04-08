@@ -1,4 +1,4 @@
 # Dashboard
 
 
-https://omotayewo.github.io/Dashboard/
+https://omotayewo.github.io/Dashboard/smedia.html
